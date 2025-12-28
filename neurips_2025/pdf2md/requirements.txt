@@ -1,0 +1,21 @@
+# Core engines (install one or both)
+magic-pdf[full]>=0.9.0    # MinerU - best accuracy
+marker-pdf>=1.0.0          # Marker - fastest
+
+# Common dependencies
+torch>=2.0.0
+transformers>=4.35.0
+accelerate>=0.25.0
+huggingface_hub>=0.20.0
+
+# PDF processing
+PyMuPDF>=1.23.0
+pdf2image>=1.16.0
+pillow>=10.0.0
+
+# OCR
+rapidocr-onnxruntime>=1.3.0
+
+# Utilities
+tqdm>=4.65.0
+click>=8.0.0

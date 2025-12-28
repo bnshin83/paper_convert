@@ -1,0 +1,42 @@
+# PDFs (too large for git)
+*.pdf
+pdfs/
+
+# Converted markdown output (too large)
+markdown_output/
+
+# Virtual environments
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs
+*.log
+logs/
+
+# Cache directories
+.cache/
+
+# Temporary files
+*.tmp
+*.temp
+nohup.out
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test outputs
+test_out/
+test_single/
+sample_output/
+sample_output_figtest/
+sample_pdfs/
+
+# Large generated files
+*.jsonl
+errors*.json

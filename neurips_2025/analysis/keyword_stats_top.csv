@@ -1,0 +1,61 @@
+keyword,paper_count,labeled_count,accept_rate_labeled
+Large Language Models,188,188,0.9414893617021277
+Reinforcement Learning,166,166,0.9578313253012049
+LLM,133,133,0.9323308270676691
+reinforcement learning,97,97,0.9381443298969072
+Large Language Model,89,89,0.9662921348314607
+large language models,88,88,0.9545454545454546
+Diffusion Models,87,87,0.9540229885057471
+LLMs,64,64,0.953125
+Reasoning,63,63,0.9365079365079365
+diffusion models,62,62,0.9354838709677419
+interpretability,49,49,0.9183673469387755
+Representation Learning,48,48,1
+Deep Learning,47,47,0.8936170212765957
+reasoning,45,45,0.9555555555555556
+Federated Learning,44,44,0.8863636363636364
+Interpretability,43,43,0.9767441860465116
+Diffusion Model,42,42,0.9523809523809523
+Graph Neural Networks,42,42,0.8809523809523809
+Generative Models,41,41,1
+diffusion model,40,40,0.975
+large language model,39,39,1
+Transformer,38,38,0.9473684210526315
+Transformers,35,35,0.8857142857142857
+representation learning,35,35,1
+transformers,35,35,0.9714285714285714
+language models,34,34,0.9411764705882353
+Vision-Language Models,33,33,1
+Reinforcement learning,32,32,0.9375
+Diffusion models,31,31,1
+deep learning,31,31,0.9354838709677419
+diffusion,31,31,0.967741935483871
+Uncertainty Quantification,30,30,0.9
+generative models,30,30,1
+optimization,30,30,0.9666666666666667
+flow matching,28,28,0.9285714285714286
+online learning,28,28,0.9642857142857143
+Alignment,26,26,0.8846153846153846
+Differential Privacy,26,26,1
+3D Gaussian Splatting,25,25,1
+contrastive learning,25,25,0.96
+Generalization,24,24,0.875
+Optimization,24,24,1
+RLHF,24,24,1
+self-supervised learning,24,24,0.9583333333333334
+Robustness,23,23,0.9130434782608695
+differential privacy,23,23,0.9130434782608695
+generalization,23,23,1
+graph neural networks,23,23,0.9565217391304348
+in-context learning,23,23,0.9130434782608695
+robustness,23,23,0.9130434782608695
+Image Generation,22,22,0.9545454545454546
+Causal Inference,21,21,0.9523809523809523
+Computer Vision,21,21,0.9523809523809523
+Diffusion,21,21,1
+Efficiency,21,21,1
+LLM Reasoning,21,21,1
+video generation,21,21,0.9047619047619048
+CLIP,20,20,0.95
+Contrastive Learning,20,20,1
+Flow Matching,20,20,0.95
